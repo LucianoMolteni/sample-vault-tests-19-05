@@ -1,6 +1,6 @@
-# <img src="frontend/img/favicon.png" width="45" height="45" align="center"> SampleVault
+# <img src="frontend/img/favicon-bw.png" width="45" height="45" align="center"> SampleVaultest
 
-**SampleVault** es una aplicación web diseñada para la gestión profesional de librerías de sonido. Permite a los productores musicales subir, categorizar, escuchar y organizar sus muestras de audio (samples) de forma privada y segura, todo bajo una arquitectura modular y eficiente.
+**SampleVaultest** estos son tests para el backend de una aplicación web diseñada para la gestión profesional de librerías de sonido. Permite a los productores musicales subir, categorizar, escuchar y organizar sus muestras de audio (samples) de forma privada y segura, todo bajo una arquitectura modular y eficiente.
 
 ---
 
@@ -37,14 +37,15 @@ Ejecuta este comando para instalar todas las bibliotecas que configuramos en los
 ```bash
 npm install express mysql2 cors multer jsonwebtoken bcrypt dotenv
 ```
-### Agregar archivo .env en el directorio backend/ con estas variables:
+### Agregar archivo .env en el directorio backend/ con estas variables como ejemplo:
 ```text
 PORT=3000
 DB_HOST=localhost
-DB_USER=samplevault
-DB_PASS=samplevault
-DB_NAME=samplevault
+DB_USER=samplevaultest
+DB_PASS=samplevaultest
+DB_NAME=samplevaultest
 JWT_SECRET=tu_clave_secreta_super_segura
+NODE_ENV=testing
 ```
 ## 📂 Estructura del Proyecto
 
@@ -61,8 +62,5 @@ JWT_SECRET=tu_clave_secreta_super_segura
 │   ├── html/            # Archivos de maquetación estáticos.
 │   ├── img/             # Activos visuales (favicon.png).
 │   └── js/
-│       ├── components/  # Manejadores de UI dinámicos (uiHandlers.js).
-│       ├── frontControllers/  # Controladores de lógica frontend.
-│       ├── services/    # Cliente API (apiService.js).
-│       └── utils/  # Lógica de sesión (authHelper.js).
+│       ├── tests/  # Scripts necesarios para crear el frontend de los tests.
 ├── test-samples/ #samples de prueba para subir.

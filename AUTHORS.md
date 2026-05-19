@@ -6,15 +6,19 @@ This project is an educational prototype of a CRUD (Create Read Update and Delet
 
 ## Developers:
 
-* Sandra Machado - full stack
-* Gabriel "Nico" Ferreira - full stack 
+* Brenda Andino - full stack - Mar del Plata (Argentina)
+* Kevin Taylor - full stack - Mar del Plata (Argentina)
+* Lucas de Llelis - full stack - Mar del Plata (Argentina)
+* Luis Manterola - full stack - Mar del Plata (Argentina)
+* Fernando Genin - full stack - Mar del Plata (Argentina)
+* Gabriel "Nico" Ferreira - full stack - Santa Clara del Mar (Argentina)  
 
 ## All other contributors and their affiliations:
 
-* Estudiantes de Prácticas Profesionalizantes II - Mar del Plata (Argentina)
+* Tecnologías B and Prácticas Profesionalizantes II Students - Mar del Plata (Argentina)
 
     * Many intelligent people.
 
 
 ## Special thanks to
-Richard
+As long as it doesn't dirty the chair =] (Mandarina)
